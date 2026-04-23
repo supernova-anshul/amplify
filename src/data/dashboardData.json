@@ -1,0 +1,34 @@
+{
+  "stats": [
+    { "id": 1, "label": "Total Revenue", "value": "$84,245", "change": "+12.4%", "trend": "up" },
+    { "id": 2, "label": "Active Users", "value": "12,480", "change": "+8.1%", "trend": "up" },
+    { "id": 3, "label": "New Orders", "value": "1,324", "change": "-2.3%", "trend": "down" },
+    { "id": 4, "label": "Conversion Rate", "value": "3.47%", "change": "+0.6%", "trend": "up" }
+  ],
+  "salesTrend": [
+    { "month": "Jan", "sales": 4200, "profit": 2400 },
+    { "month": "Feb", "sales": 3800, "profit": 2100 },
+    { "month": "Mar", "sales": 5200, "profit": 3100 },
+    { "month": "Apr", "sales": 6100, "profit": 3800 },
+    { "month": "May", "sales": 5800, "profit": 3500 },
+    { "month": "Jun", "sales": 7200, "profit": 4600 },
+    { "month": "Jul", "sales": 8100, "profit": 5300 },
+    { "month": "Aug", "sales": 7600, "profit": 4900 },
+    { "month": "Sep", "sales": 8400, "profit": 5600 }
+  ],
+  "categoryBreakdown": [
+    { "category": "Electronics", "value": 4200 },
+    { "category": "Apparel", "value": 3100 },
+    { "category": "Home", "value": 2600 },
+    { "category": "Books", "value": 1800 },
+    { "category": "Toys", "value": 1400 }
+  ],
+  "recentOrders": [
+    { "id": "ORD-1042", "customer": "Aarav Sharma", "amount": "$320.00", "status": "Completed", "date": "2026-04-21" },
+    { "id": "ORD-1041", "customer": "Priya Patel", "amount": "$128.50", "status": "Pending", "date": "2026-04-21" },
+    { "id": "ORD-1040", "customer": "Rohan Gupta", "amount": "$745.90", "status": "Completed", "date": "2026-04-20" },
+    { "id": "ORD-1039", "customer": "Meera Iyer", "amount": "$89.00", "status": "Refunded", "date": "2026-04-20" },
+    { "id": "ORD-1038", "customer": "Kabir Singh", "amount": "$450.25", "status": "Completed", "date": "2026-04-19" },
+    { "id": "ORD-1037", "customer": "Ananya Rao", "amount": "$215.75", "status": "Pending", "date": "2026-04-19" }
+  ]
+}
